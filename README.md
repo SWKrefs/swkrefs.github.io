@@ -1,5 +1,5 @@
 # SWKFNAFrefs-site
-The best public FNAF ref collection out there! (Not yet the best! Currently in alpha!)\
+The best public FNAF ref collection out there! (Not yet the best! Currently in alpha!)
 
 Current features:\
 Search refs by tags or by name\
