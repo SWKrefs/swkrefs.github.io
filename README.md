@@ -5,10 +5,11 @@ Current features:\
 Search refs by tags or by name\
 Basic ref viewing\
 Animation viewing\
-Photoshoip accurate image adjustments\
+Photoshop accurate image adjustments\
 Built in color picker
 
 Planned features:\
+Offline mode\
 Extended ref info\
 Texture resource section\
 Game sprite section\
